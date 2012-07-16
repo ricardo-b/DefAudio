@@ -1,0 +1,8 @@
+D:\[Developer]\DefAudio\DefAudio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\[Developer]\DefAudio\DefAudio\obj\x86\Debug\DefAudio.Properties.Resources.resources
+D:\[Developer]\DefAudio\DefAudio\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\[Developer]\DefAudio\DefAudio\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\[Developer]\DefAudio\DefAudio\bin\Debug\DefAudio.exe
+D:\[Developer]\DefAudio\DefAudio\bin\Debug\DefAudio.pdb
+D:\[Developer]\DefAudio\DefAudio\obj\x86\Debug\DefAudio.exe
+D:\[Developer]\DefAudio\DefAudio\obj\x86\Debug\DefAudio.pdb

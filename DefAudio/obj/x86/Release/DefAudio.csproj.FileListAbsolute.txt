@@ -1,0 +1,7 @@
+D:\[Developer]\DefAudio\DefAudio\bin\Release\DefAudio.exe
+D:\[Developer]\DefAudio\DefAudio\bin\Release\DefAudio.pdb
+D:\[Developer]\DefAudio\DefAudio\obj\x86\Release\DefAudio.Properties.Resources.resources
+D:\[Developer]\DefAudio\DefAudio\obj\x86\Release\DefAudio.exe
+D:\[Developer]\DefAudio\DefAudio\obj\x86\Release\DefAudio.pdb
+D:\[Developer]\DefAudio\DefAudio\obj\x86\Release\DefAudio.csprojResolveAssemblyReference.cache
+D:\[Developer]\DefAudio\DefAudio\obj\x86\Release\DefAudio.csproj.GenerateResource.Cache
